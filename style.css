@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+}
+
+.c {
+  border: 1px solid black;
+  padding: 20px;
+  width: 450px;
+
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+input {
+  margin: 20px;
+}
+.center {
+  border: 1px solid red;
+  background-color: white;
+  /* height: 400px; */
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+form {
+  background-color: white;
+}
